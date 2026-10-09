@@ -1,0 +1,5 @@
+.github
+.internal
+.venv
+.gitmodules
+copilot-instructions.md
