@@ -43,6 +43,7 @@ measurable FPS improvements in real-time UI applications.
 4. Lab 3: EEZ Studio and LVGL I/O
 5. Graphics performance and power
 6. Lab 4: FPS profiling and GPU acceleration
+7. Lab 5: AI-assisted LVGL prototyping
 
 ## Expected Outcomes
 - Understand the end-to-end graphics workflow on PSOC™ Edge, from assets to display output.
@@ -54,6 +55,7 @@ measurable FPS improvements in real-time UI applications.
 - [Presentation](./Presentation/PSE_advanced_graphics.pdf)
 - [Training manual](./Manual/PSE_advanced_graphics_training_manual.pdf)
 - [Lab solutions](./Lab_Source/)
+- [Lab 5 manual](https://luisreynosoifx.github.io/mtb-training-psoc-edge-graphics/)
 
 ## References and resources
 - [PSOC™ Edge MCUs](https://www.infineon.com/products/microcontroller/32-bit-psoc-arm-cortex/32-bit-psoc-edge-arm)
